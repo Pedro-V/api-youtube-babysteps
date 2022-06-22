@@ -8,4 +8,4 @@ As versões utilizadas nesse projeto foram:
 - `pandas 1.4.2`
 - `numpy 1.22.4`
 - `sklearn 1.1.1`
-
+- `google api client 2.51.0`
