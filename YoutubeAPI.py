@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
+# Esse arquivo é uma versão bruta do notebook principal
 
 # <a href="https://colab.research.google.com/github/Pedro-V/api-youtube-babysteps/blob/main/YoutubeAPI.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
